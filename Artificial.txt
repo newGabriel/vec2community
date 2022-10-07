@@ -1,0 +1,10 @@
+Datasets Artificiais/Agregation.txt
+Datasets Artificiais/banana.txt
+Datasets Artificiais/cluto.txt
+Datasets Artificiais/denseDisk.txt
+Datasets Artificiais/elly.txt
+Datasets Artificiais/engytime.txt
+Datasets Artificiais/Jain.txt
+Datasets Artificiais/Spiral.txt
+Datasets Artificiais/tetra.txt
+Datasets Artificiais/unbalance.txt

@@ -1,0 +1,9 @@
+Datasets Reais/abalone.data
+Datasets Reais/abaloneOriginal.data
+Datasets Reais/iris.data
+Datasets Reais/letter-recognition.data
+Datasets Reais/spambase.data
+Datasets Reais/tic-tac-toe.data
+Datasets Reais/wdbc.data
+Datasets Reais/winequality-red.data
+Datasets Reais/winequality-white.data

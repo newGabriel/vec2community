@@ -1,0 +1,8 @@
+Objetos Invariantes/apple.data
+Objetos Invariantes/car.data
+Objetos Invariantes/cow.data
+Objetos Invariantes/cup.data
+Objetos Invariantes/dog.data
+Objetos Invariantes/horse.data
+Objetos Invariantes/pear.data
+Objetos Invariantes/tomato.data
